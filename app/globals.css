@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .shoe-img {
+    background-image: url('../assets/images/collection-background.svg');
+    background-size: cover;
+  }
+  .shoe-img-2 {
+    background-image: url('../assets/images/thumbnail-background.svg');
+    background-size: cover;
+  }
+}
