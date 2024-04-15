@@ -12,7 +12,7 @@ const Footer = () => {
                     </div>
                     <p className="leading-7 mb-10 mt-5 font-montserrat">
                         Get shoes ready for the new term at your nearest Nike store. Find
-                        Your perfect Size In Store. Get Rewards
+                        Your Perfect Size In Store. Get Rewards
                     </p>
                     <div className="flex items-center gap-5 max-sm:justify-center">
                         <div className="p-3 rounded-full bg-white text-black">
